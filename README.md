@@ -1,4 +1,4 @@
-# Texture Sysnthesis by Portila and Simoncelli : python3 implementation
+# Texture Sysnthesis by Portila and Simoncelli
 
 Python3 implementation of Polltila and Simoncelli(2000)'s texture synthesis.  
   
@@ -14,8 +14,8 @@ Python3 implementation of Polltila and Simoncelli(2000)'s texture synthesis.
 
 
 ## Results
-Attentions !!  
-All images(except results) are from [NYU websites](http://www.cns.nyu.edu/~lcv/texture/). They hold the copyrights.
+*Attentions !!*  
+All images(except results) are from [NYU websites](http://www.cns.nyu.edu/~lcv/texture/). The copyrights belongs to it.
 
 
 ### Gray Scale
