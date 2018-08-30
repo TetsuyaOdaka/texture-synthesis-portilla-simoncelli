@@ -15,7 +15,7 @@ Python3 implementation of Polltila and Simoncelli(2000)'s texture synthesis.
 
 ## Results
 *Attentions !!*  
-All images(except results) are from [NYU websites](http://www.cns.nyu.edu/~lcv/texture/). The copyrights belongs to it.
+All images(except results) are from [NYU website](http://www.cns.nyu.edu/~lcv/texture/). The copyrights belongs to it.
 
 In this implementation, the "real version" of steerable pyramid is used. But the results are very close to the ones of "complex version" of Portilla and Simoncelli(2000).  See bellow.
 
