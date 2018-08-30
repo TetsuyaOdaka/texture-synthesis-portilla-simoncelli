@@ -38,3 +38,10 @@ All images(except results) are from [NYU websites](http://www.cns.nyu.edu/~lcv/t
 
 #### Synthesized image
 <img src="https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/samples/radish-out.png" alt="texture synthesis">  
+
+
+#### Original image
+<img src="https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/samples/pebbles.jpg" alt="texture synthesis">  
+
+#### Synthesized image
+<img src="https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/samples/pebbles-out.png" alt="texture synthesis">  
