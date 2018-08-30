@@ -54,12 +54,12 @@ All images(except results) are from [NYU websites](http://www.cns.nyu.edu/~lcv/t
 
 ### Execution(Gray Scale Version)
 - create 'out' directory. 
-- `python texture_synthesis_g.py -i radish-mono.jpg -o out -n 5 -k 4 -m 7 --iter 100`,  if you want to know details about parameters, see [source code](https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/create_collapse_pyramid.py)  
+- `python texture_synthesis_g.py -i radish-mono.jpg -o out -n 5 -k 4 -m 7 --iter 100`,  if you want to know details about parameters, see [source code](https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/texture_analysis_g.py)  
 
 
 ### Execution(RGB Color Version)
 - create 'out' directory. 
-- `python texture_synthesis_g.py -i radish.jpg -o out -n 5 -k 4 -m 7 --iter 100`,  if you want to know details about parameters, see [source code](https://github.com/TetsuyaOdaka/SteerablePyramid/blob/master/create_collapse_pyramid.py)  
+- `python texture_synthesis_g.py -i radish.jpg -o out -n 5 -k 4 -m 7 --iter 100`,  if you want to know details about parameters, see [source code](https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/texture_analysis.py)  
 
 
 ## Acknowledgement
