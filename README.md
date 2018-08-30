@@ -5,7 +5,7 @@ Python3 implementation of Polltila and Simoncelli(2000)'s texture synthesis.
 [Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficient, Portilla, J. and Simoncelli, E.(2000) ](http://www.cns.nyu.edu/pub/lcv/portilla99.pdf)  
   
 
-<br/>Basically this repository is a port of [Matlab programs of NYU](https://github.com/LabForComputationalVision/textureSynth).But "steerable pyramid" is based on Briand et al.(2014) .  
+<br/>Basically this repository is a port of [Matlab programs of NYU](https://github.com/LabForComputationalVision/textureSynth). But "steerable pyramid" part is based on Briand et al.(2014) .  
 
 [The Heeger-Bergen Pyramid-Based Texture Synthesis Algorithm, Briand,T. et al. (2014)](http://www.ipol.im/pub/art/2014/79/)
   
@@ -16,6 +16,8 @@ Python3 implementation of Polltila and Simoncelli(2000)'s texture synthesis.
 ## Results
 *Attentions !!*  
 All images(except results) are from [NYU websites](http://www.cns.nyu.edu/~lcv/texture/). The copyrights belongs to it.
+
+In this implementation, the "real version" of steerable pyramid is used. But the results are very close to the ones of "complex version" of Portilla and Simoncelli(2000).  See bellow.
 
 
 ### Gray Scale
