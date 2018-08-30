@@ -1,4 +1,4 @@
-# texture-sysnthesis-polltila-simoncelli
+# Texture Sysnthesis by Portila and Simoncelli : python3 implementation
 
 Python3 implementation of Polltila and Simoncelli(2000)'s texture synthesis.  
   
