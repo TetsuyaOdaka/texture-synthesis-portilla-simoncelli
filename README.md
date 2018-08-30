@@ -19,10 +19,15 @@ Attentions !! All sample images are from [NYU websites](http://www.cns.nyu.edu/~
 
 ### Gray Scale
 ### Original image
+<img src="https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/samples/bark.jpg" alt="texture synthesis">  
 
 ### Synthesized image
+<img src="https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/samples/bark-out.png" alt="texture synthesisd">  
+
 
 ### Color Version
 ### Original image
+<img src="https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/samples/radish.jpg" alt="texture synthesis">  
 
 ### Synthesized image
+<img src="https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/samples/radish-out.png" alt="texture synthesis">  
