@@ -24,9 +24,8 @@ All images(except results) are from [NYU websites](http://www.cns.nyu.edu/~lcv/t
 
 #### Synthesized image
 <img src="https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/samples/bark-out.png" alt="texture synthesisd">  
-
-<br/>
-#### Original image
+  
+<br/>#### Original image
 <img src="https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/samples/jrotpluses.jpg" alt="texture synthesis">  
 
 #### Synthesized image
