@@ -374,7 +374,9 @@ def synthesis(image, resol_x, resol_y, num_depth, num_ori, num_neighbor, iter, o
 
 		# ------------------------------------
 		# Save image
-		_o_img = Image.fromarray(np.uint8(im)).convert('L')
+		# bugfix
+		_o_img = Image.fromarray(np.uint8(im))
+#		_o_img = Image.fromarray(np.uint8(im)).convert('L')
 		_o_img.save(out_path + '/out-n{}-k{}-m{}-{}.png'.format(str(num_depth), str(num_ori), str(num_neighbor), str(it)))
 
 		if it > 0:
