@@ -60,7 +60,7 @@ In this implementation, the "real version" of steerable pyramid is used. But the
 
 ### Execution(RGB Color Version)
 - create 'out' directory. 
-- `python texture_synthesis_g.py -i radish.jpg -o out -n 5 -k 4 -m 7 --iter 100`,  if you want to know details about parameters, see [source code](https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/texture_analysis.py)  
+- `python texture_synthesis.py -i radish.jpg -o out -n 5 -k 4 -m 7 --iter 100`,  if you want to know details about parameters, see [source code](https://github.com/TetsuyaOdaka/texture-synthesis-portilla-simoncelli/blob/master/texture_analysis.py)  
 
 
 ## Acknowledgement

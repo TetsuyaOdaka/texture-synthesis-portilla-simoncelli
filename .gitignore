@@ -1,0 +1,17 @@
+/tmp/*
+/logs/*
+/*/cache/*
+/*/backup/*
+.DS_Store
+*~
+*.swp
+*.log
+*.pyc
+/*/log
+/*/logs
+/*/tmp
+/*/bk
+/*/backup
+/*/__pycache__/*
+
+
