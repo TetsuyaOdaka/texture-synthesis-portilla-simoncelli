@@ -81,7 +81,8 @@ class SteerablePyramid():
 			raise ValueError('illegal depth: {}'.format(str(n)))
 		self.N = n # depth
 		self.verbose = verbose # verbose
-		self.ALPHAK = 2.**(self.K-1) * math.factorial(self.K-1)/np.sqrt(self.K * float(math.factorial(2.*(self.K-1))))
+		self.ALPHAK = 2.**(self.K-1) * math.factorial(self.K-1)/np.sqrt(self.K * float(math.factorial(2*(self.K-1))))
+#		self.ALPHAK = 2.**(self.K-1) * math.factorial(self.K-1)/np.sqrt(self.K * float(math.factorial(2.*(self.K-1))))
 		self.RES = []
 		for i in range(0, self.N):
 			_tmp = 2.** i
