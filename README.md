@@ -73,4 +73,7 @@ thanks to the authors of NYU.
 - [The Heeger-Bergen Pyramid-Based Texture Synthesis Algorithm, Briend, T. et al.(2014)](http://www.ipol.im/pub/art/2014/79/)
 
 
+## License
+MIT License
+
 
